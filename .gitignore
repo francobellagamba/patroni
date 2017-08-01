@@ -51,4 +51,6 @@ scm-source.json
 docs/build/
 docs/source/_static/
 docs/source/_templates/
-.vscode/tags
+
+# VSCode
+.vscode/
